@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to JSP Page!....
+Welcome to JSP Page!
 </body>
 </html>

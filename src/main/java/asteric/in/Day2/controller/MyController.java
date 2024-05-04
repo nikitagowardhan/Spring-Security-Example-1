@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class MyController {
 	
 	
-	@RequestMapping
+	@RequestMapping("/test1")
 	String MyFun()
 	{
 		return "home.jsp";
